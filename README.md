@@ -9,7 +9,7 @@
 
 Push exitoso inicial:
 
-![Push exitoso Líder](capturas/lider_push_exitoso.png)
+![Push exitoso Líder](capturas/lider_push_exitoso.jpeg)
 
 ### Integrante 1
 
