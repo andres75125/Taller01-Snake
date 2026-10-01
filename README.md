@@ -19,14 +19,14 @@ Error antes de resolver conflicto:
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 1](capturas/integrante1_push_exitoso.png)
+![Push exitoso Integrante 1](capturas/integrante1_push_exitoso.jpeg)
 
 ### Integrante 2
 
 Error antes de resolver conflicto:
 
-![Error Integrante 2](capturas/integrante2_error.png)
+![Error Integrante 2](capturas/integrante2_error.jpeg)
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 2](capturas/integrante2_push_exitoso.png)
+![Push exitoso Integrante 2](capturas/integrante2_push_exitoso.jpeg)
